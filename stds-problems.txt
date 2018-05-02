@@ -1,0 +1,33 @@
+Agent와 Environment의 관계를 도식화
+MDP의 정의를 설명
+State-Value function 수식을 작성
+Action-Value function 수식을 작성
+Optimal Action-Value function 수식을 작성
+Policy Evaluation의 수식을 작성
+Policy Evaluation 구현
+Merge Sort 구현
+Quick Sort 구현
+Segment Tree 구현
+Codility Lesson 01 - BinaryGap 다시 풀기
+Codility Lesson 02 - CyclicRotation 다시 풀기
+Codility Lesson 02 - OddOccurrencesInArray 다시 풀기
+Codility Lesson 03 - FrogJump 다시 풀기
+Codility Lesson 03 - PermMissingElement 다시 풀기
+Codility Lesson 03 - TapeEquillibrium 다시 풀기
+Codility Lesson 04 - FrogRiverOne 다시 풀기
+Codility Lesson 04 - MaxCounters 다시 풀기
+Codility Lesson 04 - MissingInteger 다시 풀기
+Codility Lesson 04 - PermCheck 다시 풀기
+Codility Lesson 05 - CountDiv 다시 풀기
+Codility Lesson 05 - GenomicRangeQuery 다시 풀기
+Codility Lesson 05 - MinAvgTwoSlice 다시 풀기
+Codility Lesson 05 - PassingCars 다시 풀기
+Codility Lesson 06 - Triangle 다시 풀기
+Codility Lesson 07 - StoneWall 다시 풀기
+Codility Lesson 08 - Dominator 다시 풀기
+Codility Lesson 09 - MaxProfit 다시 풀기
+Codility Lesson 10 - CountFactors 다시 풀기
+Codility Lesson 11 - CountSemiPrimes 다시 풀기
+매일프로그래밍 2018.04.23문제 다시 풀기
+매일프로그래밍 2018.04.30문제 다시 풀기
+프로그래머에게 10월 31일과 12월 25일이 다른 날짜라는 것이 왜 우스운 것 인가?
